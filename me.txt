@@ -1,2 +1,4 @@
 Name: Bereket Berackey
 Program: Biomedical engineering
+research interest: Computational neuroscience
+
